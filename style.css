@@ -1,4 +1,4 @@
-#main
+/* #main
 {margin: 5% 10%;}
 
 
@@ -39,4 +39,4 @@ transform: perspective(50vw) rotateY(180deg);}
     transform: perspective(50vw) rotateY(0deg);
 }
 /* Voir pour faire l'effet du hover plutôt en js car sur tab et mobile l'effet se déclenche au clic et il faudrait donc un toggle */
-
+ */
