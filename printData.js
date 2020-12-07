@@ -117,6 +117,7 @@ var card1 = () =>
             c1Album.innerHTML= r    
         var imgAlbum = d.album.cover_medium
             img1.src = imgAlbum
+      
         var trackAlbum = d.album.tracklist
         track1.href= trackAlbum
         var playPreview = d.preview
